@@ -11,4 +11,9 @@ public class TestController {
     public String hello(){
         return "hello git!HEY";
     }
+
+    @RequestMapping("/hello2")
+    public String hello2() {
+        return "hello2";
+    }
 }
