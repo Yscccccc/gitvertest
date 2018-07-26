@@ -4,4 +4,5 @@ public class BranchTest {
 
     private String a;
 
+    private String test1;
 }
