@@ -8,4 +8,5 @@ public class BranchTest {
 
     private String test1;
 
+    private String test2;
 }
